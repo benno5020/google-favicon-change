@@ -1,8 +1,8 @@
 # Description
 
-Tampermonkey scripts to change your Gmail and Google Calendar favicons.
+These Tampermonkey scripts allow you to change your Gmail and Google Calendar favicons for a second account. Less confusion, more productivity. 🎉
 
-**Please note** that - as far as I know - you will need to host the favicons on a server with a https domain.
+**Please note** that - as far as I know - you will need to host the favicons on a server with an https domain.
 
 Before | After
 ------------ | -------------
